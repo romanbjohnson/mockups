@@ -1,0 +1,28 @@
+body{
+    height:400vh;
+}
+
+
+.menuContainer{
+    border:solid black;
+    height:40px;
+    display:flex;
+    justify-content: space-between;
+}
+.navContainer{
+    border:solid black;
+    height:40px;
+    display:flex;
+    justify-content: space-between;
+}
+ 
+
+.left{
+    width:30%
+}
+.right{
+    width:30%;
+    display:flex;
+    justify-content: space-evenly;
+    padding-top:6px;
+}
